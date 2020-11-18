@@ -55,8 +55,11 @@ Shipping costs are given in the following table (in dollars per ton).  Columns a
 | C6 | 1.0 |   - | 1.0 |   - | 1.5 | 1.5 |
 
 **Question:** The question to be answered is how to satisfy the demands of the end customers while minimizing shipping costs.
+  
+ ## Python Code with Gurobi Python API
+ - Above given file represent solution of given problem.
+   
 
 
-
-## Refernce
+## Reference
 - This model is example 19 from the fifth edition of Model Building in Mathematical Programming, by H. Paul Williams on pages 273-275 and 330-332.
